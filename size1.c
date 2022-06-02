@@ -15,6 +15,5 @@ int main()
     printf("%d*8=%d\n",a,a*8);
     printf("%d*9=%d\n",a,a*9);
     printf("%d*10=%d\n",a,a*10);
-    printf("i am a boy \a");
     return 0;
 }

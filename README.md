@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React,webGL,ThreeJS,WebAnimations**
 
-- 📫 How to reach me **palaman2626@gmail.com**
+- 📫 Reach me on **palaman2626@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

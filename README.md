@@ -106,15 +106,15 @@ A developer tool that helps engineers understand large GitHub repositories by pr
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=palaman-git&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PalAman-git&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palaman-git&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PalAman-git&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaman-git&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalAman-git&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 

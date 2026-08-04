@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github%20cover.png" alt="GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aman</h1>
 
 <h3 align="center">

@@ -2,7 +2,7 @@
   <img src="./github%20cover.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aman</h1>
+<h1 align="center">I'm Aman</h1>
 
 <h3 align="center">
 Backend Software Engineer passionate about building scalable systems, understanding how software works under the hood, and solving complex engineering problems.

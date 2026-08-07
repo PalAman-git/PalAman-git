@@ -8,7 +8,8 @@
 Backend Software Engineer passionate about building scalable systems, understanding how software works under the hood, and solving complex engineering problems.
 </h3>
 
----
+<br/>
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -18,7 +19,7 @@ I love understanding **how systems actually work**—from Linux internals and ne
 
 I'm currently focused on becoming the kind of engineer who can design reliable systems, debug production issues, and build software that scales.
 
-
+<br/>
 
 ## 🚀 Currently Building
 
@@ -33,6 +34,7 @@ A developer tool that helps engineers understand large GitHub repositories by pr
 - Semantic search
 - Architecture insights
 
+<br/>
 
 ## 🌱 Currently Learning
 
@@ -45,6 +47,7 @@ A developer tool that helps engineers understand large GitHub repositories by pr
 - Computer Networking
 - Data Structures & Algorithms
 
+<br/>
 
 ## 💡 Areas of Interest
 
@@ -56,7 +59,7 @@ A developer tool that helps engineers understand large GitHub repositories by pr
 - Databases
 - Open Source
 
-
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -90,7 +93,7 @@ A developer tool that helps engineers understand large GitHub repositories by pr
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
 </p>
 
-
+<br/>
 
 ## 🎯 Current Focus
 
@@ -101,7 +104,7 @@ A developer tool that helps engineers understand large GitHub repositories by pr
 - Contributing to open source
 - Sharing engineering learnings
 
-
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -117,13 +120,14 @@ A developer tool that helps engineers understand large GitHub repositories by pr
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PalAman-git&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
+<br/>
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [🔗](https://www.linkedin.com/in/aman-pal-416359240/)
 - 📧 Email: erdevaman@gmail.com
 
----
+<br/>
 
 > *"I believe great backend engineering isn't just about writing APIs—it's about understanding systems, making thoughtful tradeoffs, and building software that remains reliable as it grows."*
 
